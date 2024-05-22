@@ -9,7 +9,7 @@ export const OPENAI_GPT2 = {
   max_tokens: 2048
 }
 export const OPENAI_GPT3 = {
-  model: 'davinci-003',
+  model: 'davinci-002',
   max_tokens: 400
 }
 export const RESPONSE_MAX_TOKENS = 1000;
