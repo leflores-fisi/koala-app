@@ -5,11 +5,11 @@
 import { log } from "./utils";
 
 export const OPENAI_GPT2 = {
-  mmodel: 'text-davinci-002',
+  mmodel: 'davinci-002',
   max_tokens: 2048
 }
 export const OPENAI_GPT3 = {
-  model: 'text-davinci-003',
+  model: 'davinci-003',
   max_tokens: 400
 }
 export const RESPONSE_MAX_TOKENS = 1000;
